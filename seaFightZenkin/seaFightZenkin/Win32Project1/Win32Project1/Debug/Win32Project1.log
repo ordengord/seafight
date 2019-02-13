@@ -1,0 +1,8 @@
+﻿  playerHuman.cpp
+  battleFieldAI.cpp
+d:\seafight\seafightzenkin\win32project1\battlefieldai.cpp(68): warning C4101: 'value': unreferenced local variable
+  ai.cpp
+d:\seafight\seafightzenkin\win32project1\ai.cpp(8): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Win32Project1.vcxproj -> D:\Seafight\seaFightZenkin\Win32Project1\Debug\Win32Project1.exe
+  Win32Project1.vcxproj -> D:\Seafight\seaFightZenkin\Win32Project1\Debug\Win32Project1.pdb (Full PDB)
